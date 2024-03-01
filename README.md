@@ -2,8 +2,8 @@
 
 
 ```
-Android Studio Jellyfish | 2023.3.1 Canary 11
-Build #AI-233.14475.28.2331.11483111, built on February 22, 2024
+Android Studio Jellyfish | 2023.3.1 Canary 12
+Build #AI-233.14475.28.2331.11514062, built on February 29, 2024
 Runtime version: 17.0.10+0-17.0.10b1087.17-11446219 x86_64
 VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
 macOS 14.3.1
