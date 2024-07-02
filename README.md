@@ -2,17 +2,15 @@
 
 
 ```
-Android Studio Jellyfish | 2023.3.1
-Build #AI-233.14808.21.2331.11709847, built on April 13, 2024
-Runtime version: 17.0.10+0-17.0.10b1087.21-11572160 x86_64
+Android Studio Koala | 2024.1.1
+Build #AI-241.15989.150.2411.11948838, built on June 11, 2024
+Runtime version: 17.0.10+0-17.0.10b1087.21-11609105 x86_64
 VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
-macOS 13.6.6
+macOS 13.6.7
 GC: G1 Young Generation, G1 Old Generation
 Memory: 2048M
 Cores: 4
 Metal Rendering is ON
-Non-Bundled Plugins:
-  com.jetbrains.kmm (0.8.2(233)-8)
 ```
 
 
